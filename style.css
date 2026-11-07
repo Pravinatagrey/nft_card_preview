@@ -193,9 +193,11 @@ opacity:1;
 .attribution a {
   color: hsl(228, 45%, 44%);
 }
+
 * {
     font-family: 'Outfit', sans-serift;
 }
+
 hr {
     display: flex;
     border-style: solid;
